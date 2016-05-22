@@ -1,0 +1,11 @@
+c:\users\npetr\documents\visual studio 2015\Projects\renamer\renamer\bin\Debug\renamer.exe.config
+c:\users\npetr\documents\visual studio 2015\Projects\renamer\renamer\bin\Debug\renamer.exe
+c:\users\npetr\documents\visual studio 2015\Projects\renamer\renamer\bin\Debug\renamer.pdb
+c:\users\npetr\documents\visual studio 2015\Projects\renamer\renamer\bin\Debug\renamer.xml
+c:\users\npetr\documents\visual studio 2015\Projects\renamer\renamer\obj\Debug\renamer.vbprojResolveAssemblyReference.cache
+c:\users\npetr\documents\visual studio 2015\Projects\renamer\renamer\obj\Debug\renamer.Form1.resources
+c:\users\npetr\documents\visual studio 2015\Projects\renamer\renamer\obj\Debug\renamer.Resources.resources
+c:\users\npetr\documents\visual studio 2015\Projects\renamer\renamer\obj\Debug\renamer.vbproj.GenerateResource.Cache
+c:\users\npetr\documents\visual studio 2015\Projects\renamer\renamer\obj\Debug\renamer.exe
+c:\users\npetr\documents\visual studio 2015\Projects\renamer\renamer\obj\Debug\renamer.xml
+c:\users\npetr\documents\visual studio 2015\Projects\renamer\renamer\obj\Debug\renamer.pdb
